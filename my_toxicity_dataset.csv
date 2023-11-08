@@ -1,0 +1,21 @@
+text,my_label,api_score,api_label
+"Ah, traffic jams when you're already late. How wonderfully timed.",non-toxic,0.02873857,non-toxic
+I just love how my phone dies right when I need it the most.,non-toxic,0.112540044,non-toxic
+"Great job on your report, it's not like facts are important anyway.",toxic,0.012440401,non-toxic
+"Sure, take your time replying. It’s not like the house is on fire or anything.",toxic,0.042657252,non-toxic
+I absolutely adore how you state the obvious with such a sense of discovery.,toxic,0.0201057,non-toxic
+"You crashed my car? Great, I was looking for a reason to walk to work every day.",non-toxic,0.10002319,non-toxic
+You forgot our anniversary again? You really have a talent for making this day memorable.,toxic,0.020231359,non-toxic
+"You got a 25 on your exam? Well, at least you're consistent in disappointing us.",toxic,0.15656179,non-toxic
+"Oh, fantastic, you're smoking inside the house again? I guess we needed the smell of burnt tobacco to cover up the lovely scent of fresh air.",toxic,0.15158679,non-toxic
+"You've outdone yourself this time, a parking ticket and a towed car in one day? Should we celebrate your achievement?",toxic,0.034984488,non-toxic
+"You are a pathetic loser, and everyone knows it.",toxic,0.85333383,toxic
+"Nobody likes you, you're a terrible person.",toxic,0.73663366,toxic
+"Shut up, you idiot, nobody cares about your opinion.",toxic,0.9288007,toxic
+"Get out of my sight, you're nothing but a waste of space.",toxic,0.61223894,toxic
+You must be the dumbest person I've ever met in my life.,toxic,0.8364697,toxic
+Your ideas are just as pathetic as you are.,toxic,0.78711975,toxic
+"You'll never amount to anything, you're a born loser.",toxic,0.76523775,toxic
+I can't believe how stupid you are.,toxic,0.911035,toxic
+"Your personality is so bad, no wonder no one wants to be with you",toxic,0.5779532,toxic
+"You're a disgrace, and you should be ashamed of yourself.",toxic,0.74954444,toxic
