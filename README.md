@@ -1,1 +1,10 @@
-# Project2
+# Analysis: 
+I think there are some potential biases in the model linked to its training data. If the data consists of explicit toxic phrases, then the model will detect the direct negative keywords accurately. However, the model cannot understand the nuances that require the context for correct interpretation. This may be the reason for the model's inaccuracy in detecting sarcasm or irony.
+
+The model consistently identified toxic sentences with high accuracy and assigned them considerable toxicity scores. This was expected and confirmed the model's efficiency in identifying explicit negative language. But, it's less accurate for sentences with an ironic tone, reflecting the model's current inability to distinguish more subtle forms of language. For example, sarcastic comments potentially didn’t contain any negative words their intent was toxic but received a lower toxicity score.
+
+The results suggest that the AI relies heavily on keyword recognition, which leads to false identification in the context of sarcasm. It implies that the training data did not provide the ability of the model with enough contextual understanding to differentiate between literal toxicity and figurative language. Another theory could be the model's weighting system; it might assign higher weights to traditionally negative words, skewing results even when the context isn't toxic. Furthermore, the training data lacks diversity in sarcasm and cultural language variations, contributing to its current limitations.
+
+Something that surprised me was despite advancements in AI, the model often missed the comments with the mark of irony. This raises several questions: How can training data to integrate contextual understanding better? How to deal with cultural diversity impact models' identification?
+
+In conclusion, AI is skilled at identifying clear-cut toxic language, but it struggles to understand more intricate human expressions such as sarcasm. This reveals a need for more sophisticated training that goes beyond simple word recognition to include an understanding of the context and cultural subtleties that shape human interaction.
